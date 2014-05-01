@@ -1,0 +1,14 @@
+{
+  "NAME": "KerbTown",
+  "URL": "https://raw.githubusercontent.com/HubsElectrical/KerbTown/master/KerbTown.version",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 13,
+    "PATCH": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 0,
+    "MINOR": 23,
+    "PATCH": 5
+  }
+}
